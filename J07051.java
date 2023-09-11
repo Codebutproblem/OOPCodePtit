@@ -79,7 +79,7 @@ class Khach implements Comparable<Khach>{
     }
     
 }
-public class Main {
+public class J07051 {
     public static void main(String[] args)throws IOException {
         Scanner sc = new Scanner(new File("KHACHHANG.in"));
         int n = sc.nextInt();
