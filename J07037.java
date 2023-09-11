@@ -23,7 +23,7 @@ class DN{
     }
     
 }
-public class Main {
+public class J07037 {
     public static void main(String[] args)throws IOException {
         Scanner sc = new Scanner(new File("DN.in"));
         int n = sc.nextInt();
