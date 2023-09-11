@@ -39,7 +39,7 @@ class Hang implements Comparable<Hang>{
     }
     
 }
-public class Main {
+public class J07050 {
     public static void main(String[] args)throws IOException {
         Scanner sc = new Scanner(new File("MATHANG.in"));
         int n = sc.nextInt();
