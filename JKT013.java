@@ -9,7 +9,7 @@ import java.time.Period;
 import java.time.temporal.ChronoUnit;
 import java.util.*;
 
-public class Main {
+public class JKT013 {
     public static void main(String[] args)throws IOException {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
