@@ -36,7 +36,7 @@ class SinhVien{
     }
     
 }
-public class Main {
+public class J07033 {
     public static void main(String[] args)throws IOException {
         Scanner sc = new Scanner(new File("SINHVIEN.in"));
         int n = sc.nextInt();
