@@ -32,7 +32,7 @@ class LoaiPhong implements Comparable<LoaiPhong>{
     
     
 }
-public class Main {
+public class J07045 {
     public static void main(String[] args) throws IOException {
         ArrayList<LoaiPhong> ds = new ArrayList<>();
         Scanner in = new Scanner(new File("PHONG.in"));
