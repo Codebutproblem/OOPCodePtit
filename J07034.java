@@ -23,7 +23,7 @@ class Subject{
     }
     
 }
-public class Main {
+public class J07034 {
     public static void main(String[] args)throws IOException {
         Scanner sc = new Scanner(new File("MONHOC.in"));
         int n = sc.nextInt();
