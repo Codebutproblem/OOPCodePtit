@@ -42,7 +42,7 @@ class Khach{
     }
     
 }
-public class Main {
+public class J07046 {
     public static void main(String[] args)throws IOException {
         Scanner sc = new Scanner(new File("KHACH.in"));
         int n = sc.nextInt();
