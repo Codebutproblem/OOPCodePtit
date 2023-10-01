@@ -25,7 +25,7 @@ class Pair<K,V>{
     }
     
 }
-public class Main {  
+public class J07017 {  
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(new File("DATA.in"));
         int t = sc.nextInt();
